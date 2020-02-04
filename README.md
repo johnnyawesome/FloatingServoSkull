@@ -18,4 +18,9 @@ The project is written in [P5JS](https://p5js.org/) and uses [perlin noise](http
  
  ## More Information
 
-[I blogged about this project in more detail](https://breaksome.tech/coding-a-floating-servo-skull/)
+I blogged about this project in mure detail:
+
+[Creating a floating Servo Skull](https://breaksome.tech/coding-a-floating-servo-skull/)
+
+[Improving the floating Servo Skull with sweeping lasers](https://breaksome.tech/improving-the-floating-servo-skull/)
+
