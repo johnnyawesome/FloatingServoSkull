@@ -15,12 +15,5 @@ It's smoothly animated and floats around on it's own:
  <img src="https://raw.githubusercontent.com/johnnyawesome/FloatingServoSkull/master/FloatingServoSkull/DemoImages/MySkull.jpg" align="center" height="100" width="100" >
 
 The project is written in [P5JS](https://p5js.org/) and uses [perlin noise](https://p5js.org/reference/#/p5/noise) in order to create somewhat natural moving-patterns.
- 
- ## More Information
 
-I blogged about this project in a lot more detail:
-
-[Creating a floating Servo Skull](https://breaksome.tech/coding-a-floating-servo-skull/)
-
-[Improving the floating Servo Skull](https://breaksome.tech/improving-the-floating-servo-skull/)
 
